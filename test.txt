@@ -1,3 +1,5 @@
 This is the test.txt file for test branch.
 
 Add comment 1.
+
+Add comment 2.
